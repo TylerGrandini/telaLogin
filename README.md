@@ -1,3 +1,8 @@
-# telaLogin
+### Tecnologias usadas na página tiraDúvidas:
+* HTML 5 e CSS3.
+* JavaScript.
+* Bootstrap 5.
 
-aaaaaaaaaaaaaa
+### Próximas atualizações:
+* Criação da página de Registro.
+* Vínculo ao Banco de Dados.
