@@ -1,4 +1,4 @@
-### Tecnologias usadas na página tiraDúvidas:
+### Tecnologias usadas nas páginas Login e Register:
 * HTML 5 e CSS3.
 * JavaScript.
 * Bootstrap 5.
